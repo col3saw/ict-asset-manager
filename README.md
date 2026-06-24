@@ -161,4 +161,4 @@ It replaces manual spreadsheet processes with a structured, scriptable workflow 
 ## Author
 
 **Farai Murindagomo** — ICT Infrastructure & Networks Engineer  
-[linkedin.com/in/faraimur](https://linkedin.com/in/faraimur) · [github.com/faraidev](https://github.com/faraidev)
+[linkedin.com/in/faraimur](https://linkedin.com/in/faraimur) · [github.com/faraimur](https://github.com/faraimur)
